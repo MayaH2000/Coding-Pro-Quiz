@@ -41,8 +41,8 @@ var questions = [
         answer : "console.log"    
     },
 ]
-btnStart.addEventListener("click", starQuiz);
-function starQuiz(){
+btnStart.addEventListener("click", startQuiz);
+function startQuiz(){
     if(storedScores !==null) {
         allScores = storedScores;
     }
