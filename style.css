@@ -4,15 +4,18 @@ body,html{
     background-image:  url('Images/goldengatebridge.jpg');
     height: 100%;
     width: 100%;
+    color: beige;
+    flex-wrap: wrap;
 }
 
 .game-box{
     background: #627b70;
     box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0.,0,0,0.23);
-    color: aliceblue;
+    color: beige;
+    border-radius: 25px;
 }
 .answer-item{
-    background: #627b70
+    background: #cbc6a9;
     width: 90%;
     display: inline-block;
     border-radius:8px;
@@ -27,7 +30,20 @@ body,html{
 	color:#fff;
 }
 
+
+
 #code-title{
     text-align: center;
     font-weight: bold;
+    position: fixed;
+    flex-wrap: wrap;
+}
+
+.btn-primary {
+    color: white;
+    background-color: #cbc6a9;
+    border-color: #627b70;
+    background-image: linear-gradient(50deg, #627b70 0%, #cbc6a9 100%);
+    font-family: 'Overpass', sans-serif;
+    text-align: center;
 }
