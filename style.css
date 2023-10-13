@@ -1,12 +1,15 @@
 body,html{
     font-family: 'Overpass', sans-serif;
     text-align: center;
-    background-image: https://file+.vscode-resource.vscode-cdn.net/Users/maya/bootcamp/Portfolio/assets/mountains.jpg?version%3D1697154951420;
+    background-image:  url('Images/goldengatebridge.jpg');
     height: 100%;
+    width: 100%;
 }
+
 .game-box{
-    background: #eeeeee;
+    background: #627b70;
     box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0.,0,0,0.23);
+    color: aliceblue;
 }
 .answer-item{
     background: #627b70
