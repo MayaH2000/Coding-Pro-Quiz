@@ -1,12 +1,12 @@
 # San-Francisco
-This repository includes code for a simple web application that is designed to be an online quiz.
+This repository includes code for a simple web application that is designed to be an online quiz. This quiz includes 5 questions which will offer 4 multiple choice answers. With each incorrect answer, 15 seconds will be deducted from the timer. By the end of the quiz, you'll be directed to input your name or intials, then you will provided with a list that will show you the list of scores, and where you rank within those scores, with the highest score placed on top. 
 
-SOURCES
+# SOURCES
 
-https://github.com/Giselesoubeiga/Code-Quiz
-https://simplestepscode.com/javascript-quiz-tutorial/
+## https://github.com/Giselesoubeiga/Code-Quiz
+## https://simplestepscode.com/javascript-quiz-tutorial/
 
-https://mayah2000.github.io/San-Francisco/
+# https://mayah2000.github.io/San-Francisco/
 
 
 
